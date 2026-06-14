@@ -1,7 +1,7 @@
 # Hi there, I'm Nipun Demintha! 👋
 
 ## 🚀 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&vCenter=true&width=1000&lines=IT+Undergraduate+at+University;Specialising+in+Data+Science" alt="Typing Effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&vCenter=true&width=1000&lines=IT+Undergraduate+at+SLIIT+Specialising+in+Data+Science" alt="Typing Effect" />
 
 ---
 
