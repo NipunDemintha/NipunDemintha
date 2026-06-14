@@ -9,7 +9,6 @@ I am an IT Undergraduate specializing in Data Science. I am passionate about ana
 
 - 🎓 Pursuing B.Sc. (Hons) in IT (Specialising in Data Science)
 - 🛠️ Deeply interested in Data Science, Full-Stack Development, and Distributed Systems
-- 🎬 Content Creator at **Tech Deiyyo**
 
 ---
 
