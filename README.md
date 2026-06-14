@@ -1,6 +1,9 @@
 # Hi there, I'm Nipun Demintha! 👋
 
-## 🚀 Undergraduate pursuing a Bachelor of Science Honours in Information Technology, specialising in Data Science
+## 🚀 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&vCenter=true&width=1000&lines=Undergraduate+pursuing+a+B.Sc.+(Hons)+in+IT;Specialising+in+Data+Science+🧬;Passionate+about+Data-driven+Solutions+📊" alt="Typing Effect" />
+</a>
 
 ---
 
